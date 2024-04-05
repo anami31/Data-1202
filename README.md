@@ -10,4 +10,5 @@ MYSQL Workbench
 Make sure you have a MySQL database setup before deploying this script, and adjust the script's connection parameters. To load the data into the database, run the script after that.
 # Author
 Anamika
-# License
+# Acknowledgement
+I express my sincere gratitude to all team members who have contributed to this project by offering their time, insights, and expertise. Your dedication and effort have been invaluable in shaping and improving this repository.
